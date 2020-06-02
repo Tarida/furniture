@@ -3,5 +3,7 @@ module.exports = {
 
   pwa: {
     name: 'GJ Furniture'
-  }
+  },
+
+  publicPath: '/furniture/'
 }
