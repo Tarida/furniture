@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/furniture/precache-manifest.1287b339dc49b24056a664b0007cf2da.js"
+  "/furniture/precache-manifest.a4ac1d3e42f81346f969ece487e7b53d.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "gjvue"});
